@@ -1,0 +1,5 @@
+To Check Load Balancing Run this Application with more than one instance.
+
+Right Click on ForexExchangeApplication -> Run Configuration -> Give any name -> 
+
+      Put "-Dserver.port=8000" (Here 8000 is a port to run app) under VM Arguments  -> Apply -> Run
